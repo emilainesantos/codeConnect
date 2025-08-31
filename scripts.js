@@ -49,7 +49,13 @@ inputTags.addEventListener("keypress", (evento) => {
             newtag.innerHTML = `<p>${tagTexto}</p> <img src="./img/close-black.svg" class="remove-tag">`
             listaTags.appendChild(newtag);
             inputTags.value = "";
-
         }
+    }
+})
+
+listaTags.addEventListener("click", (evento) =>{
+    if (evento.target.classList.contains("remove-tag")) {
+        const tagQueQueremosRemover =  evento.target.parentElement;
+        listaTags.removeChild(tagQueQueremosRemover);
     }
 })
