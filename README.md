@@ -10,7 +10,7 @@ Figma: https://www.figma.com/design/e1iA2pwT05375B2UK46k0k/JavaScript--entendend
 <br>
 Fluxo:
 <br>
-<img width="725" height="711" alt="image" src="https://github.com/user-attachments/assets/d21bd7c2-282a-4782-927a-773fffe86d64" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d21bd7c2-282a-4782-927a-773fffe86d64" />
 ## Oque foi abordado no projeto
 
 - **Gerenciar tarefas assíncronas** em JavaScript de forma clara e organizada.
